@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">ManejoServicios</string>
+    <string name="uservice">Utilización de Servicios</string>
+    <string name="iniSound">Reproducir sonido</string>
+    <string name="iniMusic">Reproducir canción</string>
+    <string name="stop">Detener</string>
+    <string name="createservice">Servicio creado</string>
+    <string name="stopservice">Servicio detenido</string>
+    <string name="iniservice">Servicio iniciado</string>
+    <string name="audio">star_wars_john_williams_duel_of_the_fates</string>
+</resources>
